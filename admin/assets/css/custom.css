@@ -1,0 +1,12 @@
+.login-page .form-outer, .register-page .form-outer {
+	min-height: 100vh;
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 20px 0;
+	position: relative;
+}
+
+.login-page form, .register-page form {
+	margin: 2rem 5em 1rem 5em;
+	max-width: 100%;
+}
